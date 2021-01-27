@@ -46,7 +46,7 @@ const App = ({}: Props) => {
           <Header />
           <Body>
             <SectionContainer>
-              <SectionDescription>Step 하나</SectionDescription>
+              <SectionDescription>Step One</SectionDescription>
               <SectionDescription>
                 Edit <HighLight>App.js</HighLight> to change this screen and
                 then come back to see your edits.
